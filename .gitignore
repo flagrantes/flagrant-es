@@ -1,3 +1,5 @@
 .vitepress/dist
 .vitepress/cache
 bands
+
+nodes_modules/
