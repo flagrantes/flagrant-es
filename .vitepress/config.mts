@@ -1,7 +1,8 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, UserConfig } from 'vitepress'
+import tailwindcss from "@tailwindcss/vite";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+const defaultConfig = defineConfig({
   title: "flagrant·es — du métal engagé",
   description: "Flagrant·es Booking Homepage",
   themeConfig: {
@@ -26,3 +27,13 @@ export default defineConfig({
     ]
   }
 })
+
+const config: UserConfig = {
+  ...defaultConfig,
+  vite: {
+    plugins: [tailwindcss()],
+  },
+  // ... rest of config
+};
+
+export default config
