@@ -48,7 +48,8 @@
                     target="_blank"
                     class="text-white"
                     >
-                        <b class="underline">insta.</b> {{ links.instagram }}
+                        <template v-if="links.instagram"><b class="underline">insta.</b> {{ links.instagram }}</template>
+                        <template v-if="links.bandcamp"><b class="underline">bandcamp.</b> {{ links.bandcamp }}</template>
                     </a>
                 </footer>
             </article>

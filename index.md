@@ -7,7 +7,7 @@ bands:
     color: bg-purple-600
     why: un groupe avec un line-up 100% queer et féministe. Les textes engagés font bouger le public.
     recent: Concerts prévus en novembre 2026 et mars 2027 à Grenoble et Lyon.
-    other_bands: death métal mélodique, avec des influences black metal & metal core
+    other_bands: death métal mélodique, avec des influences black métal & metalcore
     videos:
       - title: Set Fire To My Face
         link: AvGar_JZ0H8?si=YT_u_ct1znDMV0Uw
@@ -65,6 +65,13 @@ bands:
         link: YkrlOEU0iqo?si=YWrnxl7Kw0g_W-g_
     links:
       - instagram: https://www.instagram.com/lacommunemusic/
+  - name: Menace To Society
+    description: Métal punk (Grenoble)
+    color: bg-orange-600
+    other_bands: Rage Against rencontre Lofofora
+    recent: des concerts en octobre 2026 et en mars 2027 à Grenoble
+    links:
+      - bandcamp: https://menacetosociety.bandcamp.com/
 ---
 
 hi
