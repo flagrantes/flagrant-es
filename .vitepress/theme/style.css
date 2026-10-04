@@ -27,7 +27,7 @@ a {
   color: unset;
   text-decoration: none;
 }
-a:hover {
+a:hover b {
   text-shadow: 0 0 5px #fff;
   text-decoration: underline;
   transition: all 0.3s ease-in-out;
