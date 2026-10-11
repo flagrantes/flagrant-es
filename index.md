@@ -17,7 +17,7 @@ bands:
       - name: press kit
         url: https://merces.flagrantes.fr/
   - name: Molly's Cake
-    description: CROSSOVERNUMETALHYPEROPCORETHING (Paris)
+    description: crossover numetal/hxc/hyperpop (Paris)
     color: bg-pink-900
     why: de l'emocore mais en + queer et + vener
     other_bands: Théa si elle chantait en saturé, Changeline si elle avait une prod métal
@@ -36,7 +36,7 @@ bands:
     description: Rap · Métal · Hardcore (Lyon)
     color: bg-yellow-900
     why: un mélange de genre qui crée une présence très lourde en live.
-    other_bands: la vague nu-métal française à la Pleymo/Enhancer ; les morceaux + rap de Landmvrks
+    other_bands: une fusion Knocked Loose (hardcore) x Furax Barbarossa (rap)
     recent: concert en septembre 2026 à Lyon
     videos:
       - title: La parole d'un artiste
