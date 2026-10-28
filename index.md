@@ -16,36 +16,6 @@ bands:
         url: https://www.instagram.com/merces.band/
       - name: press kit
         url: https://merces.flagrantes.fr/
-  - name: Molly's Cake
-    description: crossover numetal/hxc/hyperpop (Paris)
-    color: bg-pink-900
-    why: de l'emocore mais en + queer et + vener
-    other_bands: Théa si elle chantait en saturé, Changeline si elle avait une prod métal
-    recent: un album sorti en début d'année, des concerts en région parisienne
-    videos:
-      - title: Bellymonster
-        link: K-zpg16QkOg?si=Ml4KKDLyp55licNF
-      - title: live
-        link: vMjUSXlOoZY?si=kHjcKdQPvcaShQiM&amp;start=58
-    links:
-      - name: instagram
-        url: https://www.instagram.com/mollyscakeband/
-      - name: press kit
-        url: https://share.bridge.audio/m61/mollys-cake-2026?id=b4904923-6335-4472-9863-d5c7bde0bc40
-  - name: Shimae
-    description: Rap · Métal · Hardcore (Lyon)
-    color: bg-orange-800
-    why: un mélange de genre qui crée une présence très lourde en live.
-    other_bands: une fusion Knocked Loose (hardcore) x Furax Barbarossa (rap)
-    recent: concert en septembre 2026 à Lyon
-    videos:
-      - title: La parole d'un artiste
-        link: Ko61QA94-FU?si=NedinVjOw-RAccL4
-      - title: Quand tout s'effondre
-        link: dLpoAbn3UYs?si=a-Fh3TMYKteWPJ7q
-    links:
-      - name: instagram
-        url: https://www.instagram.com/shimae_rmhc/
   - name: Sangham
     description: Métal prog (Marseille)
     color: bg-green-900
@@ -77,6 +47,38 @@ bands:
     links:
       - name: instagram
         url: https://www.instagram.com/lacommunemusic/
+      - name: press kit
+        url: https://docs.google.com/document/d/1HrzpRrCSoSZSSP3ZTuVswROtwHoQrguL4V1Rke4n-2U/edit?usp=sharing
+  - name: Molly's Cake
+    description: crossover numetal/hxc/hyperpop (Paris)
+    color: bg-pink-900
+    why: de l'emocore mais en + queer et + vener
+    other_bands: Théa si elle chantait en saturé, Changeline si elle avait une prod métal
+    recent: un album sorti en début d'année, des concerts en région parisienne
+    videos:
+      - title: Bellymonster
+        link: K-zpg16QkOg?si=Ml4KKDLyp55licNF
+      - title: live
+        link: vMjUSXlOoZY?si=kHjcKdQPvcaShQiM&amp;start=58
+    links:
+      - name: instagram
+        url: https://www.instagram.com/mollyscakeband/
+      - name: press kit
+        url: https://share.bridge.audio/m61/mollys-cake-2026?id=b4904923-6335-4472-9863-d5c7bde0bc40
+  - name: Shimae
+    description: Rap · Métal · Hardcore (Lyon)
+    color: bg-orange-800
+    why: un mélange de genre qui crée une présence très lourde en live.
+    other_bands: une fusion Knocked Loose (hardcore) x Furax Barbarossa (rap)
+    recent: concert en septembre 2026 à Lyon
+    videos:
+      - title: La parole d'un artiste
+        link: Ko61QA94-FU?si=NedinVjOw-RAccL4
+      - title: Quand tout s'effondre
+        link: dLpoAbn3UYs?si=a-Fh3TMYKteWPJ7q
+    links:
+      - name: instagram
+        url: https://www.instagram.com/shimae_rmhc/
   - name: Kayne
     description: Métal alternatif (Fréjus)
     color: bg-purple-500
