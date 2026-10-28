@@ -34,7 +34,7 @@ bands:
         url: https://share.bridge.audio/m61/mollys-cake-2026?id=b4904923-6335-4472-9863-d5c7bde0bc40
   - name: Shimae
     description: Rap · Métal · Hardcore (Lyon)
-    color: bg-yellow-900
+    color: bg-orange-800
     why: un mélange de genre qui crée une présence très lourde en live.
     other_bands: une fusion Knocked Loose (hardcore) x Furax Barbarossa (rap)
     recent: concert en septembre 2026 à Lyon
@@ -60,6 +60,8 @@ bands:
     links:
       - name: instagram
         url: https://www.instagram.com/sangham_band/
+      - name: press kit
+        url: https://drive.google.com/file/d/1V3-nAFw0zwgNn1YcK8MS7LbLtFysjJkc/view?usp=sharing
   - name: La Commune
     description: Metalcore (Paris)
     color: bg-red-900
@@ -75,6 +77,18 @@ bands:
     links:
       - name: instagram
         url: https://www.instagram.com/lacommunemusic/
+  - name: Kayne
+    description: Métal alternatif (Fréjus)
+    color: bg-purple-500
+    why: un line-up mixte et une énergie militante
+    recent: un single (Burn It All Down) sorti en octobre
+    videos:
+      - title: Burn it all down
+        link: AcJ1stXIOZ0?si=twOou8iIw4FRjIiZ
+    links:
+      - name: instagram
+        url: https://www.instagram.com/kayneband/
+    
   - name: Menace To Society
     description: Métal punk (Grenoble)
     color: bg-teal-900
